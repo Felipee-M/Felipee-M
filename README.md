@@ -29,7 +29,7 @@ Repository focused on real-world data analysis using the **Olist Brazilian E-com
 - Monthly performance analysis (MoM)
 - Customer behavior and purchase history
 
-🔗 [https://github.com/Felipee-M/data-analytics-lab](https://github.com/Felipee-M/data-analytics-lab)
+👉 [**View Repository**](https://github.com/Felipee-M/data-analytics-lab)
 
 ---
 
